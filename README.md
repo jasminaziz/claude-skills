@@ -1,6 +1,6 @@
 # Claude skills for people who think for a living
 
-Three skills I use every day with Claude. I'm a communications strategist, and I wrote these to fix problems I kept running into: work that looked finished but hadn't been tested, prompts that left a new thread guessing, and long sessions that quietly went off the rails.
+Three skills I use every day with Claude. I'm a communications strategist, and I wrote these to fix problems I kept running into: work that looked finished but hadn't been tested, prompts that left a new thread guessing, and long sessions that went off the rails.
 
 A skill is a set of instructions Claude loads when a task calls for it. Each one here is a single file you can read in one sitting and change to suit how you work.
 
@@ -36,4 +36,4 @@ Each skill is plain text. Change the trigger phrases, the criteria or the tone t
 
 ## About me
 
-I'm Jasmin Aziz. I run strategic marketing and communications for charities, cultural organisations and community organisations, with AI built into how I deliver. More at [jasminaziz.co.uk](https://www.jasminaziz.co.uk), and essays on working with AI on [Substack](https://jasminaziz.substack.com).
+I'm Jasmin Aziz, a communications strategist for values-led organisations, with AI built into how I deliver. More at [jasminaziz.co.uk](https://www.jasminaziz.co.uk), and essays on working with AI on [Substack](https://jasminaziz.substack.com).
